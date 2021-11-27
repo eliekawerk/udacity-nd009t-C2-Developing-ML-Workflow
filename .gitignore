@@ -1,0 +1,10 @@
+*.lst
+project/.ipynb_checkpoints/*
+*.tar.gz
+*.jpg
+*.png
+*.jpeg
+*train
+*test
+*meta
+project/cifar-100-python/*
